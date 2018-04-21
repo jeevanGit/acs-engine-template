@@ -441,18 +441,6 @@
       },
       "type": "string"
     },
-    "apiServerCertificate": {
-      "metadata": {
-        "description": "The base 64 server certificate used on the master"
-      },
-      "type": "securestring"
-    },
-    "apiServerPrivateKey": {
-      "metadata": {
-        "description": "The base 64 server private key used on the master."
-      },
-      "type": "securestring"
-    },
     "cloudProviderBackoff": {
       "defaultValue": "false",
       "metadata": {
