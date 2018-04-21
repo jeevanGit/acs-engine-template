@@ -214,7 +214,7 @@
         98,
         99
       ],
-      "defaultValue": 0,
+      "defaultValue": 1,
       "metadata": {
         "description": "The offset into the agent pool where to start creating agents.  This value can be from 0 to 99, but must be less than agentCount"
       },
